@@ -12,8 +12,6 @@ link: https://openweathermap.org/api
 
 **Step 1** : Collect the data from OpenWeatherMap with API key.
 
-**Step 2** : Connect Airflow with Postgres and save the data to Postgres
+**Step 2** : Connect Airflow with Postgres, transform the data and save it to Postgres.
 
-**Step 3** : Extract data from Postgres and save it to a file then send it via Email
-
-
+**Step 3** : Extract the necessary data from Postgres and save it to a file then send it via Email.
