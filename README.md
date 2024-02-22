@@ -1,6 +1,6 @@
 # Overview
 
-This is a project about Airflow
+This is a project that uses Apache Airflow to automate the process of collecting data and sending it to data analysts
 
 ## Data Source
 
